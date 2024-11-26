@@ -1,0 +1,20 @@
+# Node.js dependencies
+/node_modules/
+
+# Optional npm cache
+.npm/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Compiled files
+/docs/
+
+# IDEs and text editors
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store

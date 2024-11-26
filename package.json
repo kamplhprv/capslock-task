@@ -1,0 +1,19 @@
+{
+  "name": "task-capslock",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "jsdoc": "^4.0.4",
+    "open": "^10.1.0"
+  }
+}
